@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "My story"
+title: "🌟 My Journey"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## 🌟 My Journey
 
 At the age of 13, I had the opportunity to take robotics classes, and that was the moment one of the greatest passions of my life was awakened. Working with logical reasoning, understanding how machines and programs around me functioned, and learning how these devices were created were activities that fascinated me from a very young age.
 
